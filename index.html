@@ -1,531 +1,205 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>ABDULSHAREEF — Developer</title>
-
-    <link rel="stylesheet" href="styles.css">
-</head>
-
-<body>
-
-    <!-- NAVIGATION -->
-    <header class="navbar">
-        <a href="#home" class="logo">CEO.</a>
-
-        <nav>
-            <a href="#about">About</a>
-            <a href="#skills">Expertise</a>
-            <a href="#projects">Projects</a>
-            <a href="#education">Education</a>
-            <a href="#contact">Contact</a>
-        </nav>
-
-        <a href="#contact" class="nav-button">Let's Talk ↗</a>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="The portfolio of ABDULSHAREEF ADAMU ABDULRAZAK, known as CEO — building, learning, and growing on the web."
+    />
+    <meta name="theme-color" content="#10141d" />
+    <title>ABDULSHAREEF ADAMU ABDULRAZAK (CEO) — Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav wrap" aria-label="Main navigation">
+        <a class="wordmark" href="#home" aria-label="CEO, home">
+          CE<span>O</span><span class="wordmark-dot">.</span>
+        </a>
+        <div class="nav-links">
+          <a href="#about">About</a>
+          <a href="#projects">Projects</a>
+          <a class="nav-cta" href="#contact">Contact <span aria-hidden="true">↗</span></a>
+        </div>
+      </nav>
     </header>
 
-
-    <!-- HERO -->
-    <main id="home">
-
-        <section class="hero">
-
-            <div class="hero-text">
-
-                <p class="small-title">COMPUTER SCIENCE · WEB DEVELOPMENT</p>
-
-                <h1>
-                    Building digital
-                    <span>experiences</span>
-                    with purpose.
-                </h1>
-
-                <p class="hero-description">
-                    I'm Abdulshareef, a Computer Science student and
-                    aspiring web developer focused on creating simple,
-                    modern and responsive websites.
-                </p>
-
-                <div class="hero-links">
-                    <a href="#projects" class="gold-button">
-                        Explore My Work ↗
-                    </a>
-
-                    <a href="#about" class="text-link">
-                        More About Me ↓
-                    </a>
-                </div>
-
+    <main>
+      <section class="hero wrap" id="home" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="status-dot"></span> Learning by building</p>
+          <p class="hero-name">ABDULSHAREEF ADAMU ABDULRAZAK <span>CEO</span></p>
+          <h1 id="hero-title">Build.<br />Learn.<br /><span>Grow.</span></h1>
+          <p class="hero-intro">
+            Hey, I’m <strong>Abdulshareef</strong>, known as <strong>CEO</strong> — an aspiring developer turning curiosity into
+            projects, one line at a time.
+          </p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="#projects">
+              Explore my work <span aria-hidden="true">↓</span>
+            </a>
+            <a class="text-link" href="#about">A little about me <span aria-hidden="true">↗</span></a>
+          </div>
+          <div class="hero-note">
+            <span class="note-icon" aria-hidden="true">✳</span>
+            <p>Progress over perfection.<br /><span>Always building what's next.</span></p>
+          </div>
+        </div>
+        <div class="hero-art">
+          <div class="photo-frame">
+            <img
+              class="hero-photo"
+              src="hero.jpg"
+              alt="Abdulshareef working at a desk surrounded by notes and creative inspiration"
+              fetchpriority="high"
+            />
+            <div class="photo-shade"></div>
+            <div class="photo-caption">
+              <span class="caption-mark" aria-hidden="true">&lt;/&gt;</span>
+              <span><strong>Curious mind.</strong><br />Builder’s mindset.</span>
             </div>
+          </div>
+          <div class="orbit orbit-one" aria-hidden="true"></div>
+          <div class="orbit orbit-two" aria-hidden="true"></div>
+          <span class="sparkle sparkle-one" aria-hidden="true">✳</span>
+          <span class="sparkle sparkle-two" aria-hidden="true">✳</span>
+        </div>
+      </section>
 
+      <div class="ticker" aria-label="Skills and interests">
+        <div class="ticker-track">
+          <span>HTML &amp; CSS</span><i aria-hidden="true">✳</i>
+          <span>JavaScript</span><i aria-hidden="true">✳</i>
+          <span>Web development</span><i aria-hidden="true">✳</i>
+          <span>Git &amp; GitHub</span><i aria-hidden="true">✳</i>
+          <span>Always learning</span><i aria-hidden="true">✳</i>
+          <span>HTML &amp; CSS</span><i aria-hidden="true">✳</i>
+          <span>JavaScript</span><i aria-hidden="true">✳</i>
+          <span>Web development</span><i aria-hidden="true">✳</i>
+          <span>Git &amp; GitHub</span><i aria-hidden="true">✳</i>
+          <span>Always learning</span><i aria-hidden="true">✳</i>
+        </div>
+      </div>
 
-            <div class="hero-image">
+      <section class="about section wrap" id="about" aria-labelledby="about-title">
+        <div class="about-image">
+          <img
+            src="developer.jpg"
+            alt="Abdulshareef thinking through a project at a home workspace"
+            loading="lazy"
+          />
+          <span class="image-label">INHA’ALLAH <span aria-hidden="true">♛</span></span>
+        </div>
+        <div class="about-copy">
+          <p class="eyebrow">A bit about me</p>
+          <h2 id="about-title">Big dreams.<br /><span>One line at a time.</span></h2>
+          <p>
+            I’m Abdulshareef Adamu Abdulrazak, known as CEO. I’m building my skills in
+            web development by making real things, learning
+            from every challenge, and sharing the journey along the way.
+          </p>
+          <p>
+            This portfolio is a work in progress too. Take a look at what I’ve been
+            working on, and check back as I keep growing.
+          </p>
+          <div class="interest-list" aria-label="Current interests">
+            <span>Front-end development</span>
+            <span>JavaScript</span>
+            <span>Learning by doing</span>
+          </div>
+        </div>
+      </section>
 
-                <img src="image/hero.jpg" alt="Abdulshareef working as a developer">
-
-                <div class="image-label">
-                    <span>01</span>
-                    <span>BUILD · LEARN · GROW</span>
-                </div>
-
+      <section class="projects section" id="projects" aria-labelledby="projects-title">
+        <div class="wrap">
+          <div class="projects-heading">
+            <div>
+              <p class="eyebrow">Made, tried &amp; learned</p>
+              <h2 id="projects-title">A few things<br /><span>I’ve been building.</span></h2>
             </div>
-
-        </section>
-
-
-        <!-- INTRO -->
-        <section class="intro">
-
-            <div class="section-number">01 / ABOUT</div>
-
-            <div class="intro-content">
-
-                <h2>
-                    A student today,
-                    <br>
-                    <span>developer tomorrow.</span>
-                </h2>
-
-                <p>
-                    I am currently studying B.Sc. Computer Science at
-                    Federal University Dutse. My journey in web
-                    development started with HTML and CSS, and I am
-                    continuously expanding my knowledge of JavaScript,
-                    APIs and databases.
-                </p>
-
-            </div>
-
-        </section>
-
-
-        <!-- ABOUT IMAGE -->
-        <section id="about" class="about-section">
-
-            <div class="about-image">
-
-                <img
-                    src="image/developer.jpg"
-                    alt="Developer working on a laptop"
-                >
-
-            </div>
-
-            <div class="about-info">
-
-                <p class="section-number">02 / WHO I AM</p>
-
-                <h2>
-                    Learning.
-                    <br>
-                    Building.
-                    <br>
-                    Improving.
-                </h2>
-
-                <p>
-                    I enjoy turning ideas into working websites and
-                    interfaces. Every project I build gives me an
-                    opportunity to learn something new.
-                </p>
-
-                <p>
-                    My current focus is improving my frontend development
-                    skills while gaining practical experience with
-                    JavaScript, APIs and SQL.
-                </p>
-
-            </div>
-
-        </section>
-
-
-        <!-- EXPERTISE -->
-        <section id="skills" class="expertise">
-
-            <div class="section-number">03 / EXPERTISE</div>
-
-            <h2>What I work with</h2>
-
-            <div class="skills-list">
-
-                <div class="skill-row">
-                    <span>01</span>
-                    <h3>HTML</h3>
-                    <p>Structure & semantic web development</p>
-                </div>
-
-                <div class="skill-row">
-                    <span>02</span>
-                    <h3>CSS</h3>
-                    <p>Responsive design & visual interfaces</p>
-                </div>
-
-                <div class="skill-row">
-                    <span>03</span>
-                    <h3>JavaScript</h3>
-                    <p>Interactivity & web functionality</p>
-                </div>
-
-                <div class="skill-row">
-                    <span>04</span>
-                    <h3>APIs</h3>
-                    <p>Fetching and displaying external data</p>
-                </div>
-
-                <div class="skill-row">
-                    <span>05</span>
-                    <h3>SQL</h3>
-                    <p>Learning databases and queries</p>
-                </div>
-
-                <div class="skill-row">
-                    <span>06</span>
-                    <h3>Git & GitHub</h3>
-                    <p>Version control and project deployment</p>
-                </div>
-
-            </div>
-
-        </section>
-
-
-        <!-- PROJECTS -->
-        <section id="projects" class="projects">
-
-            <div class="section-number">04 / SELECTED WORK</div>
-
-            <div class="projects-heading">
-
-                <h2>Things I've built.</h2>
-
-                <p>
-                    A collection of projects created while learning
-                    and developing my web development skills.
-                </p>
-
-            </div>
-
-
-            <!-- PROJECT 1 -->
-            <article class="project">
-
-                <div class="project-top">
-
-                    <span>01</span>
-
-                    <a
-                        href="https://academyceo.github.io/student-registerr/"
-                        target="_blank"
-                    >
-                        Visit Project ↗
-                    </a>
-
-                </div>
-
-                <h3>Student Register</h3>
-
-                <p>
-                    A clean student registration interface built with
-                    HTML and CSS.
-                </p>
-
-                <div class="project-tech">
-                    HTML · CSS
-                </div>
-
-            </article>
-
-
-            <!-- PROJECT 2 -->
-            <article class="project">
-
-                <div class="project-top">
-
-                    <span>02</span>
-
-                    <a
-                        href="https://academyceo.github.io/simple-calculatorr/"
-                        target="_blank"
-                    >
-                        Visit Project ↗
-                    </a>
-
-                </div>
-
-                <h3>Simple Calculator</h3>
-
-                <p>
-                    A functional calculator with arithmetic operations
-                    and an interactive interface.
-                </p>
-
-                <div class="project-tech">
-                    HTML · CSS · JavaScript
-                </div>
-
-            </article>
-
-
-            <!-- PROJECT 3 -->
-            <article class="project">
-
-                <div class="project-top">
-
-                    <span>03</span>
-
-                    <a
-                        href="https://academyceo.github.io/big-joke/"
-                        target="_blank"
-                    >
-                        Visit Project ↗
-                    </a>
-
-                </div>
-
-                <h3>Random Joke Generator</h3>
-
-                <p>
-                    An API project that fetches and displays random
-                    jokes.
-                </p>
-
-                <div class="project-tech">
-                    HTML · CSS · JavaScript · API
-                </div>
-
-            </article>
-
-
-            <!-- PROJECT 4 -->
-            <article class="project">
-
-                <div class="project-top">
-
-                    <span>04</span>
-
-                    <a
-                        href="https://academyceo.github.io/EEngeryexpenditure/"
-                        target="_blank"
-                    >
-                        Visit Project ↗
-                    </a>
-
-                </div>
-
-                <h3>Energy Expenditure</h3>
-
-                <p>
-                    A structured web table displaying energy
-                    expenditure information.
-                </p>
-
-                <div class="project-tech">
-                    HTML · CSS
-                </div>
-
-            </article>
-
-
-            <!-- PROJECT 5 -->
-            <article class="project">
-
-                <div class="project-top">
-
-                    <span>05</span>
-
-                    <a
-                        href="https://academyceo.github.io/Job-form/"
-                        target="_blank"
-                    >
-                        Visit Project ↗
-                    </a>
-
-                </div>
-
-                <h3>Job Application Form</h3>
-
-                <p>
-                    A responsive application form designed for
-                    collecting applicant information.
-                </p>
-
-                <div class="project-tech">
-                    HTML · CSS
-                </div>
-
-            </article>
-
-
-            <!-- PROJECT 6 -->
-            <article class="project unfinished">
-
-                <div class="project-top">
-
-                    <span>06</span>
-
-                    <span class="status">
-                        IN PROGRESS
-                    </span>
-
-                </div>
-
-                <h3>Country Information App</h3>
-
-                <p>
-                    An API project designed to display information
-                    about different countries.
-                </p>
-
-                <div class="project-tech">
-                    JavaScript · REST API
-                </div>
-
-            </article>
-
-
-            <!-- PROJECT 7 -->
-            <article class="project unfinished">
-
-                <div class="project-top">
-
-                    <span>07</span>
-
-                    <span class="status">
-                        IN PROGRESS
-                    </span>
-
-                </div>
-
-                <h3>Movie Search App</h3>
-
-                <p>
-                    A movie search application using an API to
-                    retrieve movie information.
-                </p>
-
-                <div class="project-tech">
-                    JavaScript · API
-                </div>
-
-            </article>
-
-        </section>
-
-
-        <!-- EDUCATION -->
-        <section id="education" class="education">
-
-            <div class="section-number">05 / EDUCATION</div>
-
-            <div class="education-content">
-
-                <div>
-                    <p class="year">2023 — PRESENT</p>
-                </div>
-
-                <div>
-
-                    <h2>Federal University Dutse</h2>
-
-                    <h3>
-                        B.Sc. Computer Science
-                    </h3>
-
-                    <p>
-                        Studying computer science with practical
-                        experience in web development, programming,
-                        databases, software engineering and other
-                        areas of computing.
-                    </p>
-
-                </div>
-
-            </div>
-
-        </section>
-
-
-        <!-- CURRENTLY -->
-        <section class="currently">
-
-            <div class="section-number">06 / CURRENTLY</div>
-
-            <h2>
-                Currently learning
-                <span>& building.</span>
-            </h2>
-
-            <div class="learning-list">
-
-                <span>JavaScript</span>
-                <span>APIs</span>
-                <span>SQL</span>
-                <span>Git & GitHub</span>
-                <span>Responsive Design</span>
-                <span>Web Development</span>
-
-            </div>
-
-        </section>
-
-
-        <!-- CONTACT -->
-        <section id="contact" class="contact">
-
-            <div class="section-number">07 / CONNECT</div>
-
-            <h2>
-                Let's build something
-                <span>meaningful.</span>
-            </h2>
-
-            <p>
-                Whether it's a project, opportunity or simply a
-                conversation about technology, feel free to reach out.
+            <p class="projects-intro">
+              Every public repository from my GitHub profile, kept up to date whenever
+              this page loads.
             </p>
+          </div>
 
-            <div class="contact-links">
-
-                <a href="mailto:abdulaabulshareef78@gmail.com">
-                    Email ↗
-                </a>
-
-                <a
-                    href="https://wa.me/2349161049397"
-                    target="_blank"
-                >
-                    WhatsApp ↗
-                </a>
-
+          <form class="github-form" id="github-form">
+            <label for="github-username">GitHub username</label>
+            <div class="github-input-row">
+              <span class="input-prefix" aria-hidden="true">@</span>
+              <input
+                id="github-username"
+                name="username"
+                type="text"
+                autocomplete="username"
+                autocapitalize="none"
+                spellcheck="false"
+                value="Academyceo"
+                aria-describedby="github-help github-status"
+                required
+              />
+              <button class="button button-primary load-button" type="submit">
+                Load projects <span aria-hidden="true">↗</span>
+              </button>
             </div>
+            <p class="form-help" id="github-help">
+              Loads every public repository from @Academyceo. No sign-in required.
+            </p>
+          </form>
 
-        </section>
+          <div class="project-toolbar">
+            <p class="project-count" id="project-count">Your projects will show up here.</p>
+            <div class="project-filters" id="project-filters" aria-label="Filter projects"></div>
+          </div>
+          <p class="status-message" id="github-status" role="status" aria-live="polite">
+            Add your GitHub username to get started.
+          </p>
+          <div class="project-grid" id="project-grid" aria-live="polite"></div>
+        </div>
+      </section>
 
+      <section class="closing wrap" id="contact" aria-labelledby="closing-title">
+        <div class="closing-inner">
+          <span class="closing-spark" aria-hidden="true">✳</span>
+          <p class="eyebrow">Let’s make something good</p>
+          <h2 id="closing-title">Have a project<br /><span>in mind?</span></h2>
+          <p class="contact-intro">I’d love to hear from you. Choose how you’d like to get in touch.</p>
+          <div class="contact-actions">
+            <a
+              class="button button-primary"
+              href="https://wa.me/2349161049397"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Message CEO on WhatsApp at 09161049397"
+            >WhatsApp me <span aria-hidden="true">↗</span></a>
+            <a class="button button-outline" href="mailto:abdulaadamu78@gmail.com">
+              Email me <span aria-hidden="true">↗</span>
+            </a>
+          </div>
+          <div class="contact-details">
+            <a href="mailto:abdulaadamu78@gmail.com">abdulaadamu78@gmail.com</a>
+            <span>WhatsApp only: 09161049397</span>
+          </div>
+          <a class="github-profile-link" href="https://github.com/Academyceo" target="_blank" rel="noopener noreferrer">
+            Find me on GitHub <span aria-hidden="true">↗</span>
+          </a>
+          <span class="closing-orbit" aria-hidden="true"></span>
+        </div>
+      </section>
     </main>
 
-
-    <!-- FOOTER -->
-    <footer>
-
-        <div class="footer-logo">
-            CEO.
-        </div>
-
-        <p>
-            © <span id="year"></span> ABDULSHAREEF.
-        </p>
-
-        <p>
-            BUILD · LEARN · GROW
-        </p>
-
+    <footer class="site-footer wrap">
+      <a class="wordmark" href="#home" aria-label="CEO, back to top">CE<span>O</span><span class="wordmark-dot">.</span></a>
+      <p>Made with curiosity &amp; a little bit of code.</p>
+      <a class="back-top" href="#home">Back to top <span aria-hidden="true">↑</span></a>
     </footer>
-
-
-    <script src="script.js"></script>
-
-</body>
+  </body>
 </html>
