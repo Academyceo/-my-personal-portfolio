@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#edf1f7"/>
+  <rect x="28" y="24" width="744" height="352" rx="14" fill="#fff" stroke="#dce3ed"/>
+  <rect x="28" y="24" width="744" height="62" rx="14" fill="#18354d"/>
+  <path d="M28 72h744v14H28z" fill="#18354d"/>
+  <path d="M62 43h27v29H62z" fill="#e2bb58"/>
+  <path d="m68 54 7-5 8 5-1 10-7 5-7-5z" fill="none" stroke="#18354d" stroke-width="2"/>
+  <text x="101" y="61" fill="#fff" font-family="Arial,sans-serif" font-size="16" font-weight="700">CEO STUDENT PORTAL</text>
+  <text x="64" y="124" fill="#7890a3" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">ACADEMIC RECORD</text>
+  <text x="64" y="155" fill="#18354d" font-family="Arial,sans-serif" font-size="22" font-weight="700">Student result</text>
+  <rect x="624" y="115" width="111" height="29" rx="14" fill="#e6f4eb"/>
+  <circle cx="641" cy="130" r="4" fill="#3a9d66"/>
+  <text x="653" y="134" fill="#34794f" font-family="Arial,sans-serif" font-size="10" font-weight="700">PASSED</text>
+  <text x="64" y="185" fill="#748496" font-family="Arial,sans-serif" font-size="12">Student</text>
+  <text x="64" y="207" fill="#273c53" font-family="Arial,sans-serif" font-size="14" font-weight="700">Abdulshareef A.</text>
+  <text x="289" y="185" fill="#748496" font-family="Arial,sans-serif" font-size="12">Class</text>
+  <text x="289" y="207" fill="#273c53" font-family="Arial,sans-serif" font-size="14" font-weight="700">Computer Science</text>
+  <text x="546" y="185" fill="#748496" font-family="Arial,sans-serif" font-size="12">Term</text>
+  <text x="546" y="207" fill="#273c53" font-family="Arial,sans-serif" font-size="14" font-weight="700">Second Term</text>
+  <rect x="64" y="226" width="671" height="35" rx="4" fill="#18354d"/>
+  <text x="81" y="249" fill="#fff" font-family="Arial,sans-serif" font-size="11" font-weight="700">SUBJECT</text>
+  <text x="420" y="249" fill="#fff" font-family="Arial,sans-serif" font-size="11" font-weight="700">SCORE</text>
+  <text x="570" y="249" fill="#fff" font-family="Arial,sans-serif" font-size="11" font-weight="700">GRADE</text>
+  <g font-family="Arial,sans-serif" font-size="12">
+    <rect x="64" y="261" width="671" height="31" fill="#f8fafc"/>
+    <text x="81" y="282" fill="#34485c">Mathematics</text><text x="436" y="282" fill="#34485c">86</text><text x="584" y="282" fill="#318252" font-weight="700">A</text>
+    <rect x="64" y="292" width="671" height="31" fill="#fff"/>
+    <text x="81" y="313" fill="#34485c">English Language</text><text x="436" y="313" fill="#34485c">78</text><text x="584" y="313" fill="#318252" font-weight="700">B</text>
+    <rect x="64" y="323" width="671" height="31" fill="#f8fafc"/>
+    <text x="81" y="344" fill="#34485c">Computer Studies</text><text x="436" y="344" fill="#34485c">92</text><text x="584" y="344" fill="#318252" font-weight="700">A</text>
+  </g>
+</svg>

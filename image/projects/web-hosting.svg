@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#eaf0f7"/>
+  <rect x="28" y="24" width="744" height="352" rx="14" fill="#fff" stroke="#dbe3ed"/>
+  <rect x="28" y="24" width="744" height="55" rx="14" fill="#172944"/>
+  <path d="M28 65h744v14H28z" fill="#172944"/>
+  <circle cx="62" cy="51" r="14" fill="#66b6dd"/>
+  <path d="M54 51h16M62 43q-8 8 0 16M62 43q8 8 0 16" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <text x="88" y="57" fill="#fff" font-family="Arial,sans-serif" font-size="15" font-weight="700">CLOUDNEST</text>
+  <text x="507" y="55" fill="#c3cee0" font-family="Arial,sans-serif" font-size="11">HOSTING</text>
+  <text x="574" y="55" fill="#c3cee0" font-family="Arial,sans-serif" font-size="11">FEATURES</text>
+  <rect x="655" y="38" width="87" height="27" rx="4" fill="#66b6dd"/>
+  <text x="698" y="56" text-anchor="middle" fill="#142640" font-family="Arial,sans-serif" font-size="10" font-weight="700">GET STARTED</text>
+  <circle cx="653" cy="191" r="91" fill="#eef6fc"/>
+  <circle cx="653" cy="191" r="61" fill="#deeff9"/>
+  <path d="M596 209q-13-3-13-16 0-13 15-16 5-28 34-28 24 0 33 21 24-2 29 18 2 17-17 21z" fill="#68b5db"/>
+  <path d="M653 170v52m-19-20 19 20 19-20" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="67" y="135" fill="#3184b1" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="3">FAST, SECURE &amp; SIMPLE</text>
+  <text x="67" y="173" fill="#172944" font-family="Arial,sans-serif" font-size="30" font-weight="700">Your website,</text>
+  <text x="67" y="210" fill="#172944" font-family="Arial,sans-serif" font-size="30" font-weight="700">right at home.</text>
+  <text x="67" y="242" fill="#718096" font-family="Arial,sans-serif" font-size="13">Reliable web hosting that helps your ideas</text>
+  <text x="67" y="262" fill="#718096" font-family="Arial,sans-serif" font-size="13">reach the world.</text>
+  <rect x="67" y="281" width="128" height="38" rx="4" fill="#318bb8"/>
+  <text x="131" y="305" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="11" font-weight="700">EXPLORE PLANS →</text>
+  <text x="67" y="348" fill="#7d8ba0" font-family="Arial,sans-serif" font-size="10">✦ 99.9% UPTIME   ·   FREE SSL   ·   24/7 SUPPORT</text>
+</svg>

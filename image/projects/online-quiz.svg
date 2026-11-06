@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#eaf0f8"/>
+  <rect x="28" y="24" width="744" height="352" rx="14" fill="#fff" stroke="#dbe3ef"/>
+  <rect x="28" y="24" width="744" height="58" rx="14" fill="#202c4c"/>
+  <path d="M28 66h744v16H28z" fill="#202c4c"/>
+  <circle cx="61" cy="53" r="15" fill="#7798ed"/>
+  <text x="61" y="59" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="16" font-weight="700">?</text>
+  <text x="89" y="58" fill="#fff" font-family="Arial,sans-serif" font-size="17" font-weight="700">QUICK QUIZ</text>
+  <text x="680" y="57" fill="#b9c9f5" font-family="Arial,sans-serif" font-size="12">QUESTION 04 / 10</text>
+  <rect x="64" y="105" width="672" height="8" rx="4" fill="#e9edf5"/>
+  <rect x="64" y="105" width="270" height="8" rx="4" fill="#6486e7"/>
+  <text x="64" y="151" fill="#71809d" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">WEB DEVELOPMENT</text>
+  <text x="64" y="192" fill="#202c4c" font-family="Arial,sans-serif" font-size="23" font-weight="700">What does HTML stand for?</text>
+  <g font-family="Arial,sans-serif" font-size="14">
+    <rect x="64" y="215" width="320" height="48" rx="7" fill="#f8f9fc" stroke="#e0e5ef"/>
+    <circle cx="90" cy="239" r="12" fill="#e8ecf5"/><text x="90" y="244" text-anchor="middle" fill="#5a6780" font-size="11">A</text>
+    <text x="114" y="244" fill="#3c4964">Hyper Text Markup Language</text>
+    <rect x="400" y="215" width="336" height="48" rx="7" fill="#eef2ff" stroke="#8198ea" stroke-width="2"/>
+    <circle cx="426" cy="239" r="12" fill="#6486e7"/><text x="426" y="244" text-anchor="middle" fill="#fff" font-size="11">B</text>
+    <text x="450" y="244" fill="#2b3c70">Hyperlinks and Text Markup</text>
+    <rect x="64" y="276" width="320" height="48" rx="7" fill="#f8f9fc" stroke="#e0e5ef"/>
+    <circle cx="90" cy="300" r="12" fill="#e8ecf5"/><text x="90" y="305" text-anchor="middle" fill="#5a6780" font-size="11">C</text>
+    <text x="114" y="305" fill="#3c4964">Home Tool Markup Language</text>
+    <rect x="400" y="276" width="336" height="48" rx="7" fill="#f8f9fc" stroke="#e0e5ef"/>
+    <circle cx="426" cy="300" r="12" fill="#e8ecf5"/><text x="426" y="305" text-anchor="middle" fill="#5a6780" font-size="11">D</text>
+    <text x="450" y="305" fill="#3c4964">Hyper Tool Multi Language</text>
+  </g>
+  <text x="64" y="352" fill="#8490a5" font-family="Arial,sans-serif" font-size="11">SELECT AN ANSWER TO CONTINUE</text>
+  <rect x="632" y="335" width="104" height="34" rx="17" fill="#6486e7"/>
+  <text x="684" y="357" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="12" font-weight="700">NEXT →</text>
+</svg>

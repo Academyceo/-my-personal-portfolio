@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#e9ecef"/>
+  <rect x="28" y="24" width="744" height="352" rx="14" fill="#fff" stroke="#dce1e5"/>
+  <rect x="28" y="24" width="744" height="56" rx="14" fill="#101d2d"/>
+  <path d="M28 65h744v15H28z" fill="#101d2d"/>
+  <path d="M57 44h30l-15 19z" fill="#e2b54b"/>
+  <text x="97" y="58" fill="#fff" font-family="Arial,sans-serif" font-size="15" font-weight="700">GLOBAL AUTOS</text>
+  <text x="505" y="57" fill="#c6ced7" font-family="Arial,sans-serif" font-size="11">HOME</text>
+  <text x="563" y="57" fill="#c6ced7" font-family="Arial,sans-serif" font-size="11">VEHICLES</text>
+  <text x="646" y="57" fill="#c6ced7" font-family="Arial,sans-serif" font-size="11">CONTACT</text>
+  <rect x="28" y="80" width="744" height="192" fill="#23374b"/>
+  <path d="M28 219q172-95 369-46t375-43v142H28z" fill="#182939"/>
+  <circle cx="653" cy="122" r="35" fill="#e2b54b" opacity=".85"/>
+  <path d="m105 207 31-50q7-11 20-13l98-9q14-1 25 10l44 46 58 11q12 3 12 16v18H91v-16q0-10 14-13z" fill="#cbd2d8"/>
+  <path d="m157 158 104-10 33 37H135z" fill="#7392a6"/>
+  <path d="M115 205h250" stroke="#e2b54b" stroke-width="4"/>
+  <circle cx="160" cy="235" r="22" fill="#101820"/><circle cx="160" cy="235" r="10" fill="#9ca5ab"/>
+  <circle cx="320" cy="235" r="22" fill="#101820"/><circle cx="320" cy="235" r="10" fill="#9ca5ab"/>
+  <text x="427" y="143" fill="#e6bd5d" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="3">DRIVE WHAT MOVES YOU</text>
+  <text x="427" y="173" fill="#fff" font-family="Arial,sans-serif" font-size="24" font-weight="700">Find your next car.</text>
+  <rect x="427" y="190" width="112" height="34" rx="3" fill="#e2b54b"/>
+  <text x="483" y="212" text-anchor="middle" fill="#182432" font-family="Arial,sans-serif" font-size="10" font-weight="700">EXPLORE CARS</text>
+  <text x="61" y="307" fill="#142436" font-family="Arial,sans-serif" font-size="16" font-weight="700">Featured vehicles</text>
+  <g>
+    <rect x="61" y="320" width="211" height="38" rx="4" fill="#f2f4f6" stroke="#e2e5e8"/>
+    <path d="M77 341h31l-6-10h-16z" fill="#6d8190"/><circle cx="84" cy="345" r="4" fill="#283747"/><circle cx="102" cy="345" r="4" fill="#283747"/>
+    <text x="121" y="344" fill="#34475a" font-family="Arial,sans-serif" font-size="10" font-weight="700">SEDANS</text>
+    <rect x="294" y="320" width="211" height="38" rx="4" fill="#f2f4f6" stroke="#e2e5e8"/>
+    <path d="M310 341h31l-6-10h-16z" fill="#6d8190"/><circle cx="317" cy="345" r="4" fill="#283747"/><circle cx="335" cy="345" r="4" fill="#283747"/>
+    <text x="354" y="344" fill="#34475a" font-family="Arial,sans-serif" font-size="10" font-weight="700">SUVS</text>
+    <rect x="527" y="320" width="211" height="38" rx="4" fill="#f2f4f6" stroke="#e2e5e8"/>
+    <path d="M543 341h31l-6-10h-16z" fill="#6d8190"/><circle cx="550" cy="345" r="4" fill="#283747"/><circle cx="568" cy="345" r="4" fill="#283747"/>
+    <text x="587" y="344" fill="#34475a" font-family="Arial,sans-serif" font-size="10" font-weight="700">TRUCKS</text>
+  </g>
+</svg>

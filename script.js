@@ -10,6 +10,11 @@ const projectGrid = document.getElementById("project-grid");
 const githubStatus = document.getElementById("github-status");
 const refreshProjectsButton = document.getElementById("refresh-projects");
 const projectPreviews = {
+    "online-quiz": "image/projects/online-quiz.svg",
+    "digital-clock": "image/projects/digital-clock.svg",
+    "ceo-student-result-checker": "image/projects/student-result-checker.svg",
+    "bootstrap": "image/projects/global-autos.svg",
+    "web-hosting": "image/projects/web-hosting.svg",
     "student-registerr": "image/projects/student-register.svg",
     "simple-calculatorr": "image/projects/calculator.svg",
     "big-joke": "image/projects/joke-generator.svg",
