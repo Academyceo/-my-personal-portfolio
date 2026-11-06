@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#edf0ea"/>
+  <rect x="28" y="24" width="744" height="352" rx="14" fill="#fbfcf9" stroke="#dce2d9"/>
+  <text x="63" y="67" fill="#25382d" font-family="Arial,sans-serif" font-size="18" font-weight="700">COUNTRY EXPLORER</text>
+  <text x="63" y="91" fill="#869187" font-family="Arial,sans-serif" font-size="11">Discover places around the world</text>
+  <rect x="535" y="48" width="200" height="36" rx="18" fill="#f0f3ee" stroke="#dce2d9"/>
+  <circle cx="555" cy="66" r="6" fill="none" stroke="#89958a" stroke-width="1.5"/>
+  <path d="m560 71 5 5" stroke="#89958a" stroke-width="1.5"/>
+  <text x="574" y="70" fill="#89958a" font-family="Arial,sans-serif" font-size="10">Search countries...</text>
+  <g>
+    <rect x="63" y="112" width="210" height="228" rx="9" fill="#fff" stroke="#e3e7e1"/>
+    <rect x="63" y="112" width="210" height="112" rx="9" fill="#4c9870"/>
+    <path d="M63 212h210v12H63z" fill="#4c9870"/>
+    <rect x="63" y="153" width="210" height="29" fill="#fff"/><circle cx="168" cy="167" r="16" fill="#d85050"/>
+    <text x="80" y="252" fill="#26372c" font-family="Arial,sans-serif" font-size="16" font-weight="700">Japan</text>
+    <text x="80" y="278" fill="#758078" font-family="Arial,sans-serif" font-size="11">Population: 125.8M</text>
+    <text x="80" y="298" fill="#758078" font-family="Arial,sans-serif" font-size="11">Region: Asia</text>
+    <text x="80" y="318" fill="#758078" font-family="Arial,sans-serif" font-size="11">Capital: Tokyo</text>
+    <rect x="295" y="112" width="210" height="228" rx="9" fill="#fff" stroke="#e3e7e1"/>
+    <rect x="295" y="112" width="210" height="112" rx="9" fill="#e7e9ed"/>
+    <path d="M295 151h210v34H295z" fill="#d84e4e"/><path d="M295 185h210v39H295z" fill="#fff"/>
+    <text x="312" y="252" fill="#26372c" font-family="Arial,sans-serif" font-size="16" font-weight="700">Canada</text>
+    <text x="312" y="278" fill="#758078" font-family="Arial,sans-serif" font-size="11">Population: 38.2M</text>
+    <text x="312" y="298" fill="#758078" font-family="Arial,sans-serif" font-size="11">Region: Americas</text>
+    <text x="312" y="318" fill="#758078" font-family="Arial,sans-serif" font-size="11">Capital: Ottawa</text>
+    <rect x="527" y="112" width="210" height="228" rx="9" fill="#fff" stroke="#e3e7e1"/>
+    <rect x="527" y="112" width="210" height="112" rx="9" fill="#fff"/>
+    <path d="M527 112h70v112h-70zM667 112h70v112h-70z" fill="#39845c"/>
+    <text x="544" y="252" fill="#26372c" font-family="Arial,sans-serif" font-size="16" font-weight="700">Nigeria</text>
+    <text x="544" y="278" fill="#758078" font-family="Arial,sans-serif" font-size="11">Population: 218.5M</text>
+    <text x="544" y="298" fill="#758078" font-family="Arial,sans-serif" font-size="11">Region: Africa</text>
+    <text x="544" y="318" fill="#758078" font-family="Arial,sans-serif" font-size="11">Capital: Abuja</text>
+  </g>
+</svg>

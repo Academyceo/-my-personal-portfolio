@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#ece8dc"/>
+  <rect x="28" y="24" width="744" height="352" rx="14" fill="#fff" stroke="#ded9ca"/>
+  <rect x="28" y="24" width="744" height="54" rx="14" fill="#18251f"/>
+  <path d="M28 64h744v14H28z" fill="#18251f"/>
+  <circle cx="57" cy="51" r="13" fill="#d4af37"/>
+  <path d="M51 51h12M57 45v12" stroke="#18251f" stroke-width="2"/>
+  <text x="81" y="56" fill="#fff" font-family="Arial,sans-serif" font-size="16" font-weight="700">STUDENT REGISTER</text>
+  <text x="64" y="119" fill="#18251f" font-family="Arial,sans-serif" font-size="23" font-weight="700">Add a student</text>
+  <text x="64" y="142" fill="#7a807c" font-family="Arial,sans-serif" font-size="12">Enter student details to create a new record.</text>
+  <rect x="64" y="164" width="310" height="42" rx="5" fill="#fafaf8" stroke="#d9ddd9"/>
+  <text x="79" y="190" fill="#929892" font-family="Arial,sans-serif" font-size="12">Full name</text>
+  <rect x="394" y="164" width="340" height="42" rx="5" fill="#fafaf8" stroke="#d9ddd9"/>
+  <text x="409" y="190" fill="#929892" font-family="Arial,sans-serif" font-size="12">Email address</text>
+  <rect x="64" y="220" width="310" height="42" rx="5" fill="#fafaf8" stroke="#d9ddd9"/>
+  <text x="79" y="246" fill="#929892" font-family="Arial,sans-serif" font-size="12">Department</text>
+  <rect x="394" y="220" width="340" height="42" rx="5" fill="#fafaf8" stroke="#d9ddd9"/>
+  <text x="409" y="246" fill="#929892" font-family="Arial,sans-serif" font-size="12">Matric number</text>
+  <rect x="64" y="282" width="130" height="40" rx="5" fill="#d4af37"/>
+  <text x="91" y="307" fill="#18251f" font-family="Arial,sans-serif" font-size="12" font-weight="700">REGISTER +</text>
+  <text x="64" y="351" fill="#858a85" font-family="Arial,sans-serif" font-size="11">STUDENT RECORDS  ·  SIMPLE &amp; ORGANIZED</text>
+</svg>

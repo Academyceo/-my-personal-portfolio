@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#1b1b20"/>
+  <rect x="27" y="23" width="746" height="354" rx="14" fill="#24242a"/>
+  <text x="62" y="68" fill="#f5f0e5" font-family="Arial,sans-serif" font-size="19" font-weight="700">FRAME</text>
+  <text x="132" y="68" fill="#9fa0a8" font-family="Arial,sans-serif" font-size="11">MOVIE DISCOVERY</text>
+  <rect x="526" y="43" width="214" height="36" rx="18" fill="#303037" stroke="#44444c"/>
+  <circle cx="546" cy="61" r="6" fill="none" stroke="#a8a8ad" stroke-width="1.5"/>
+  <path d="m551 66 5 5" stroke="#a8a8ad" stroke-width="1.5"/>
+  <text x="565" y="65" fill="#a8a8ad" font-family="Arial,sans-serif" font-size="10">Search movies</text>
+  <text x="62" y="117" fill="#d4af37" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2">POPULAR RIGHT NOW</text>
+  <g>
+    <rect x="62" y="135" width="151" height="177" rx="6" fill="#476e73"/>
+    <circle cx="138" cy="208" r="43" fill="#e3bc69"/><path d="M106 216q32-59 64 0v20h-64z" fill="#263c45"/>
+    <text x="76" y="286" fill="#fff" font-family="Arial,sans-serif" font-size="12" font-weight="700">THE LAST LIGHT</text>
+    <text x="76" y="302" fill="#d0d0d3" font-family="Arial,sans-serif" font-size="9">Drama · 2025</text>
+    <rect x="230" y="135" width="151" height="177" rx="6" fill="#8b5363"/>
+    <circle cx="305" cy="207" r="43" fill="#e49a70"/><path d="M273 210q32-48 64 0v26h-64z" fill="#422e42"/>
+    <text x="244" y="286" fill="#fff" font-family="Arial,sans-serif" font-size="12" font-weight="700">MIDNIGHT CITY</text>
+    <text x="244" y="302" fill="#e0d3d8" font-family="Arial,sans-serif" font-size="9">Thriller · 2024</text>
+    <rect x="398" y="135" width="151" height="177" rx="6" fill="#75623c"/>
+    <circle cx="474" cy="207" r="43" fill="#e6c982"/><path d="M442 212q32-52 64 0v24h-64z" fill="#304044"/>
+    <text x="412" y="286" fill="#fff" font-family="Arial,sans-serif" font-size="12" font-weight="700">WILD HORIZON</text>
+    <text x="412" y="302" fill="#e4dfd1" font-family="Arial,sans-serif" font-size="9">Adventure · 2025</text>
+    <rect x="566" y="135" width="174" height="177" rx="6" fill="#42517b"/>
+    <circle cx="653" cy="207" r="43" fill="#e3ad79"/><path d="M621 212q32-50 64 0v24h-64z" fill="#272b49"/>
+    <text x="580" y="286" fill="#fff" font-family="Arial,sans-serif" font-size="12" font-weight="700">BEYOND THE STARS</text>
+    <text x="580" y="302" fill="#d1d4df" font-family="Arial,sans-serif" font-size="9">Sci-fi · 2025</text>
+  </g>
+  <text x="62" y="350" fill="#aaaab1" font-family="Arial,sans-serif" font-size="10">EXPLORE  ·  SEARCH  ·  DISCOVER</text>
+</svg>

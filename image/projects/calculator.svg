@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#e9e7e2"/>
+  <rect x="29" y="24" width="742" height="352" rx="14" fill="#202226"/>
+  <text x="66" y="68" fill="#e9e7e2" font-family="Arial,sans-serif" font-size="15" font-weight="700">SIMPLE CALCULATOR</text>
+  <circle cx="735" cy="54" r="5" fill="#d4af37"/>
+  <rect x="64" y="93" width="672" height="78" rx="8" fill="#141619"/>
+  <text x="699" y="127" text-anchor="end" fill="#8b9098" font-family="Arial,sans-serif" font-size="16">128 × 3</text>
+  <text x="699" y="157" text-anchor="end" fill="#fff" font-family="Arial,sans-serif" font-size="28" font-weight="700">384</text>
+  <g font-family="Arial,sans-serif" font-size="17" text-anchor="middle">
+    <rect x="64" y="190" width="154" height="48" rx="7" fill="#383b40"/><text x="141" y="221" fill="#e7e8e9">AC</text>
+    <rect x="236" y="190" width="154" height="48" rx="7" fill="#383b40"/><text x="313" y="221" fill="#e7e8e9">+/-</text>
+    <rect x="408" y="190" width="154" height="48" rx="7" fill="#383b40"/><text x="485" y="221" fill="#e7e8e9">%</text>
+    <rect x="580" y="190" width="156" height="48" rx="7" fill="#d4af37"/><text x="658" y="221" fill="#202226">÷</text>
+    <rect x="64" y="250" width="154" height="48" rx="7" fill="#303338"/><text x="141" y="281" fill="#fff">7</text>
+    <rect x="236" y="250" width="154" height="48" rx="7" fill="#303338"/><text x="313" y="281" fill="#fff">8</text>
+    <rect x="408" y="250" width="154" height="48" rx="7" fill="#303338"/><text x="485" y="281" fill="#fff">9</text>
+    <rect x="580" y="250" width="156" height="48" rx="7" fill="#d4af37"/><text x="658" y="281" fill="#202226">×</text>
+    <rect x="64" y="310" width="154" height="42" rx="7" fill="#303338"/><text x="141" y="338" fill="#fff">4</text>
+    <rect x="236" y="310" width="154" height="42" rx="7" fill="#303338"/><text x="313" y="338" fill="#fff">5</text>
+    <rect x="408" y="310" width="154" height="42" rx="7" fill="#303338"/><text x="485" y="338" fill="#fff">6</text>
+    <rect x="580" y="310" width="156" height="42" rx="7" fill="#d4af37"/><text x="658" y="338" fill="#202226">−</text>
+  </g>
+</svg>

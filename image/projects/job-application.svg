@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#e9e8e2"/>
+  <rect x="30" y="24" width="740" height="352" rx="13" fill="#fdfdfb" stroke="#e0ded6"/>
+  <rect x="30" y="24" width="230" height="352" rx="13" fill="#23362c"/>
+  <path d="M247 24h13v352h-13z" fill="#23362c"/>
+  <circle cx="82" cy="75" r="19" fill="#d4af37"/>
+  <path d="M74 75h16M82 67v16" stroke="#23362c" stroke-width="2"/>
+  <text x="58" y="134" fill="#fff" font-family="Arial,sans-serif" font-size="20" font-weight="700">Start your</text>
+  <text x="58" y="161" fill="#fff" font-family="Arial,sans-serif" font-size="20" font-weight="700">next chapter.</text>
+  <text x="58" y="194" fill="#c6d0c8" font-family="Arial,sans-serif" font-size="11">Tell us a little about</text>
+  <text x="58" y="212" fill="#c6d0c8" font-family="Arial,sans-serif" font-size="11">yourself and apply today.</text>
+  <text x="297" y="76" fill="#23362c" font-family="Arial,sans-serif" font-size="22" font-weight="700">Job application</text>
+  <text x="297" y="99" fill="#7c857d" font-family="Arial,sans-serif" font-size="12">Your details</text>
+  <text x="297" y="137" fill="#4a554d" font-family="Arial,sans-serif" font-size="11">FULL NAME</text>
+  <rect x="297" y="147" width="205" height="38" rx="4" fill="#fff" stroke="#d9ded8"/>
+  <text x="310" y="171" fill="#9ba19b" font-family="Arial,sans-serif" font-size="11">Your name</text>
+  <text x="523" y="137" fill="#4a554d" font-family="Arial,sans-serif" font-size="11">EMAIL</text>
+  <rect x="523" y="147" width="215" height="38" rx="4" fill="#fff" stroke="#d9ded8"/>
+  <text x="536" y="171" fill="#9ba19b" font-family="Arial,sans-serif" font-size="11">you@example.com</text>
+  <text x="297" y="214" fill="#4a554d" font-family="Arial,sans-serif" font-size="11">POSITION</text>
+  <rect x="297" y="224" width="441" height="38" rx="4" fill="#fff" stroke="#d9ded8"/>
+  <text x="310" y="248" fill="#9ba19b" font-family="Arial,sans-serif" font-size="11">Select a role</text>
+  <text x="297" y="291" fill="#4a554d" font-family="Arial,sans-serif" font-size="11">WHY ARE YOU A GOOD FIT?</text>
+  <rect x="297" y="301" width="441" height="34" rx="4" fill="#fff" stroke="#d9ded8"/>
+  <rect x="297" y="345" width="126" height="20" rx="10" fill="#d4af37"/>
+  <text x="318" y="359" fill="#23362c" font-family="Arial,sans-serif" font-size="9" font-weight="700">SUBMIT APPLICATION</text>
+</svg>

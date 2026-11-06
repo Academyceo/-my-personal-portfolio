@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#e9eee9"/>
+  <rect x="30" y="26" width="740" height="348" rx="12" fill="#fff" stroke="#dce4dc"/>
+  <text x="68" y="75" fill="#20362b" font-family="Arial,sans-serif" font-size="24" font-weight="700">Energy expenditure</text>
+  <text x="68" y="99" fill="#829086" font-family="Arial,sans-serif" font-size="12">A quick look at daily activity and energy use</text>
+  <rect x="68" y="124" width="664" height="43" rx="4" fill="#213b2d"/>
+  <g fill="#fff" font-family="Arial,sans-serif" font-size="12" font-weight="700">
+    <text x="88" y="151">ACTIVITY</text><text x="382" y="151">DURATION</text><text x="565" y="151">ENERGY (KCAL)</text>
+  </g>
+  <g font-family="Arial,sans-serif" font-size="13">
+    <rect x="68" y="167" width="664" height="43" fill="#f5f7f4"/><text x="88" y="194" fill="#334239">Walking</text><text x="382" y="194" fill="#657269">30 min</text><text x="594" y="194" fill="#334239" font-weight="700">120</text>
+    <rect x="68" y="210" width="664" height="43" fill="#fff"/><text x="88" y="237" fill="#334239">Cycling</text><text x="382" y="237" fill="#657269">45 min</text><text x="594" y="237" fill="#334239" font-weight="700">310</text>
+    <rect x="68" y="253" width="664" height="43" fill="#f5f7f4"/><text x="88" y="280" fill="#334239">Running</text><text x="382" y="280" fill="#657269">25 min</text><text x="594" y="280" fill="#334239" font-weight="700">280</text>
+    <rect x="68" y="296" width="664" height="43" fill="#fff"/><text x="88" y="323" fill="#334239">Swimming</text><text x="382" y="323" fill="#657269">40 min</text><text x="594" y="323" fill="#334239" font-weight="700">350</text>
+  </g>
+  <path d="M68 210h664M68 253h664M68 296h664" stroke="#e5e9e4"/>
+</svg>
